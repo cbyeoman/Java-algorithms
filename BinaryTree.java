@@ -58,11 +58,11 @@ public class BinaryTree {
         // TODO Auto-generated method stub
         BinaryTree theTree = new BinaryTree();
 
-        theTree.addnode(1, "Ahmad");
-        theTree.addnode(2, "Ali");
-        theTree.addnode(3, "Sara");
-        theTree.addnode(4, "Abed");
-        theTree.addnode(5, "Mohammad");
+        theTree.addnode(1, "Chris");
+        theTree.addnode(2, "Brad");
+        theTree.addnode(3, "Jen");
+        theTree.addnode(4, "Susan");
+        theTree.addnode(5, "Ralph");
 
         System.out.println("Search for 4");
         System.out.println(theTree.findNode(4));
